@@ -1,5 +1,32 @@
 body {text-align: center;
       font-family: "Helvetica"}
 
-.title {color: white;
-        background-image: url("C:\Users\YouAreSuccessful\Desktop\Projects\Broadway\Resources\images\the-flatiron-building.png");}
+#home {background-image: url("C:\Users\YouAreSuccessful\Desktop\Projects\Broadway\Resources\images\the-flatiron-building.png");
+        height: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;}
+
+h1 {color: white;
+    font-size: 70px;
+    font-weight: bold;}
+
+#home p {font-size: 18px;
+         color: white;}
+
+h2 {font-size: 32px;
+    font-weight: bold;}
+
+h2 {font-size: 23px;
+    font-weight: bold;}
+
+p {font-size: 14px;}
+
+#design {background-image: url("C:\Users\YouAreSuccessful\Desktop\Projects\Broadway\Resources\images\the-flatiron-building.png");
+         font-size: 23px;
+         font-weight: bold;
+         color: white;}
+
+.footer {font-size: 11px
+         background-color: dimgray;
+        text-align: left;}
