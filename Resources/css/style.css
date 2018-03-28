@@ -1,7 +1,7 @@
 body {text-align: center;
       font-family: "Helvetica"}
 
-#home {background-image: url("C:\Users\YouAreSuccessful\Desktop\Projects\Broadway\Resources\images\the-flatiron-building.png");
+#home {background-image: url("../images/the-flatiron-building.png");
         height: 100%;
         background-position: center;
         background-repeat: no-repeat;
@@ -22,7 +22,7 @@ h2 {font-size: 23px;
 
 p {font-size: 14px;}
 
-#design {background-image: url("C:\Users\YouAreSuccessful\Desktop\Projects\Broadway\Resources\images\the-flatiron-building.png");
+#design {background-image: url("../images/the-flatiron-building.png");
          font-size: 23px;
          font-weight: bold;
          color: white;}
